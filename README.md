@@ -25,4 +25,4 @@ This project is a sample application built using the MERN stack (MongoDB, Expres
 for front-end
 - Go to frontend-React folder and in terminal **npm install --legacy-peer-deps** after installing node modules **npm start** or **npm run startNV**
 for Back-end
-- Go to Backend-Node-Rest-Apis folder and in terminal **npm install** after installing node modules **nodemon**
+- Go to Backend-Node-Rest-Apis folder and in terminal **npm install** after installing node modules run command **nodemon**
