@@ -19,6 +19,7 @@ This project is a sample application built using the MERN stack (MongoDB, Expres
 - **Node.js:** JavaScript runtime for server-side development.
 - **JWT:** For user authentication and authorization.
 - **bcrypt:** For password encryption.
+- **socket.io** for live feef updates.
 
 ## Installation
 for front-end
